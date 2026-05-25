@@ -3,6 +3,11 @@
 
 A generic, production-ready hash table implementation in C that supports **multiple primitive data types** including integers, floats, doubles, characters, and strings.
 
+[![GitHub stars](https://img.shields.io/github/stars/ramintaghizada/hash-table.svg?style=social)](https://github.com/ramintaghizada/hash-table/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ramintaghizada/hash-table.svg?style=social)](https://github.com/ramintaghizada/hash-table/network)
+[![GitHub issues](https://img.shields.io/github/issues/ramintaghizada/hash-table.svg)](https://github.com/ramintaghizada/hash-table/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/ramintaghizada/hash-table.svg)](https://github.com/ramintaghizada/hash-table/pulls)
+
 ## ✨ Features
 
 - ✅ **Multi-type support** - Store `int`, `float`, `double`, `char`, and `string` values
